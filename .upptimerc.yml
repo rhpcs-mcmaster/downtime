@@ -9,8 +9,18 @@ sites:
     url: https://emuseum.mcmaster.ca/
   - name: MMOS
     url: https://museum.mcmaster.ca
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: arieal.mcmaster.ca
+    url: https://arieal.mcmaster.ca
+  - name: Back2Play
+    url: https://b2p.mcmaster.ca/api/surveys
+  - name: ms.math.mcmaster.ca
+    url: http://ms.math.mcmaster.ca/uptimerobot
+  - name: rhpcs.mcmaster.ca
+    url: http://rhpcs.mcmaster.ca
+  - name: web.mcmaster.ca
+    url: http://web.mcmaster.ca/.well-known
+  - name: Expected to always Fail
+    url: http://rhpcssss.mmcmaster.ca
   
 
 status-website:
