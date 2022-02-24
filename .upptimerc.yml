@@ -31,7 +31,7 @@ status-website:
   introMessage: "**Real-time** data from our [GitHub repository](https://github.com/rhpcs-mcmaster/downtime)." 
   navbar:
     - title: Status
-      href: #
+      href: https://rhpcs-mcmaster.github.io/downtime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
