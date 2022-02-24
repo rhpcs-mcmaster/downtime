@@ -14,7 +14,7 @@ sites:
 
 status-website:
   baseUrl: /downtime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://research.mcmaster.ca/app/themes/macsites-theme/img/logo.svg
   name: Upptime
   introTitle: "Open-source uptime monitor and status page"
   introMessage: **Real-time** data from our [GitHub repository](https://github.com/rhpcs-mcmaster/downtime). 
