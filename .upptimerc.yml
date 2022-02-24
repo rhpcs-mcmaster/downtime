@@ -3,14 +3,15 @@ owner: rhpcs-mcmaster
 repo: downtime
 
 sites:
+  - name: MACENGAGED
+    url: https://www.macengaged.com/
   - name: eMuseum
     url: https://emuseum.mcmaster.ca/
   - name: MMOS
     url: https://museum.mcmaster.ca
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  
 
 status-website:
   baseUrl: /downtime
