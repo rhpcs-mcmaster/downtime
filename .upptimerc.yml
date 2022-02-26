@@ -19,11 +19,11 @@ sites:
     url: http://rhpcs.mcmaster.ca
   - name: web.mcmaster.ca
     url: http://web.mcmaster.ca/.well-known
-  - name: Expected to always Fail
-    url: http://rhpcssss.mmcmaster.ca
+  - name: BW Elements
+    url: https://science.mcmaster.ca/medialab/joomla3/bwelements/
   - name: WebMail fail test
     url: https://xbox.rhpcs.mmcmaster.ca
-  - name: Test hidden tcp ping
+  - name: Test hidden tcp ping for ssh
     url: $HIDDEN_SITE1_SSH
     check: "tcp-ping"
     port: 22
