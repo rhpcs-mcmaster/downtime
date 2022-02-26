@@ -23,6 +23,10 @@ sites:
     url: http://rhpcssss.mmcmaster.ca
   - name: WebMail fail test
     url: https://xbox.rhpcs.mmcmaster.ca
+  - name: Test hidden tcp ping
+    url: $HIDDEN_SITE1_SSH
+    check: "tcp-ping"
+    port: 22
   
 
 status-website:
