@@ -21,8 +21,8 @@ sites:
     url: http://web.mcmaster.ca/.well-known
   - name: BW Elements
     url: https://science.mcmaster.ca/medialab/joomla3/bwelements/
-  - name: WebMail fail test
-    url: https://xbox.rhpcs.mmcmaster.ca
+  - name: WebMail
+    url: https://web.mcmaster.ca/mail/roundcube/1.4/
   - name: Test hidden tcp ping for ssh
     url: $HIDDEN_SITE1_SSH
     check: "tcp-ping"
