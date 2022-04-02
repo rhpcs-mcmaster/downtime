@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 6069,
     "dailyMinutesDown": {
-      "2022-04-02": 458,
+      "2022-04-02": 466,
       "2022-04-01": 1440,
       "2022-03-31": 1440,
       "2022-03-30": 1440,
@@ -210,19 +210,19 @@
     "url": "https://web.mcmaster.ca/mail/roundcube/1.4/",
     "icon": "https://favicons.githubusercontent.com/web.mcmaster.ca",
     "slug": "web-mail",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 104,
-    "timeWeek": 153,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 131,
+    "timeDay": 175,
+    "timeWeek": 164,
+    "timeMonth": 132,
+    "timeYear": 131,
     "dailyMinutesDown": {
-      "2022-04-02": 0
+      "2022-04-02": 8
     }
   },
   {
