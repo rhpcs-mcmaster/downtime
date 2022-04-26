@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 6069,
     "dailyMinutesDown": {
-      "2022-04-26": 44,
+      "2022-04-26": 891,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 1440,
@@ -103,11 +103,11 @@
     "icon": "https://favicons.githubusercontent.com/museum.mcmaster.ca",
     "slug": "mmos",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.10%",
+    "uptimeYear": "99.11%",
     "time": 544,
     "timeDay": 319,
     "timeWeek": 437,
@@ -236,9 +236,9 @@
     "url": "https://web.mcmaster.ca/mail/roundcube/1.4/",
     "icon": "https://favicons.githubusercontent.com/web.mcmaster.ca",
     "slug": "web-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -248,6 +248,7 @@
     "timeMonth": 139,
     "timeYear": 131,
     "dailyMinutesDown": {
+      "2022-04-26": 0,
       "2022-04-02": 18
     }
   },
