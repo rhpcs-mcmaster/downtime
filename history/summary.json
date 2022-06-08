@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 6069,
     "dailyMinutesDown": {
-      "2022-06-08": 483,
+      "2022-06-08": 515,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
@@ -211,9 +211,9 @@
     "url": "http://ms.math.mcmaster.ca/uptimerobot",
     "icon": "https://favicons.githubusercontent.com/ms.math.mcmaster.ca",
     "slug": "ms-math-mcmaster-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -223,6 +223,7 @@
     "timeMonth": 146,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2022-06-08": 0,
       "2022-04-23": 17
     }
   },
@@ -267,19 +268,19 @@
     "url": "https://science.mcmaster.ca/medialab/joomla3/bwelements/",
     "icon": "https://favicons.githubusercontent.com/science.mcmaster.ca",
     "slug": "bw-elements",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 155,
-    "timeDay": 151,
-    "timeWeek": 192,
-    "timeMonth": 181,
+    "timeDay": 175,
+    "timeWeek": 193,
+    "timeMonth": 182,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2022-06-08": 0
+      "2022-06-08": 32
     }
   },
   {
