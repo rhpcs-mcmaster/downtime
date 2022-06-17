@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 6069,
     "dailyMinutesDown": {
-      "2022-06-17": 42,
+      "2022-06-17": 909,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
@@ -220,11 +220,11 @@
     "url": "http://ms.math.mcmaster.ca/uptimerobot",
     "icon": "https://favicons.githubusercontent.com/ms.math.mcmaster.ca",
     "slug": "ms-math-mcmaster-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.42%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "99.83%",
     "time": 293,
     "timeDay": 142,
@@ -232,6 +232,7 @@
     "timeMonth": 800,
     "timeYear": 293,
     "dailyMinutesDown": {
+      "2022-06-17": 0,
       "2022-06-08": 256,
       "2022-04-23": 17
     }
