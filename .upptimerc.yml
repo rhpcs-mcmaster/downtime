@@ -23,6 +23,8 @@ sites:
     url: https://science.mcmaster.ca/medialab/joomla3/bwelements/
   - name: WebMail
     url: https://web.mcmaster.ca/mail/roundcube/1.4/
+  - name: McMaster Research and Innovation
+    url: https://research.mcmaster.ca
   - name: Test hidden tcp ping for ssh
     url: $HIDDEN_SITE1_SSH
     check: "tcp-ping"
