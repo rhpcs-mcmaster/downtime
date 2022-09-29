@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 6069,
     "dailyMinutesDown": {
-      "2022-09-29": 882,
+      "2022-09-29": 1068,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
@@ -339,18 +339,19 @@
     "url": "http://ms.math.mcmaster.ca/uptimerobot",
     "icon": "https://favicons.githubusercontent.com/ms.math.mcmaster.ca",
     "slug": "ms-math-mcmaster-ca",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.89%",
     "time": 229,
     "timeDay": 83,
     "timeWeek": 140,
     "timeMonth": 157,
     "timeYear": 229,
     "dailyMinutesDown": {
+      "2022-09-29": 2,
       "2022-06-17": 53,
       "2022-06-08": 256,
       "2022-04-23": 17
@@ -463,9 +464,9 @@
     "url": "$HIDDEN_SITE1_SSH",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "test-hidden-tcp-ping-for-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -474,6 +475,8 @@
     "timeWeek": 49,
     "timeMonth": 67,
     "timeYear": 48,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-29": 0
+    }
   }
 ]
