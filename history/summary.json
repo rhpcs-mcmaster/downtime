@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 6069,
     "dailyMinutesDown": {
-      "2022-12-06": 39,
+      "2022-12-06": 719,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -379,11 +379,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/b2p.mcmaster.ca.ico",
     "slug": "back2-play",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.46%",
+    "uptimeYear": "97.47%",
     "time": 301,
     "timeDay": 176,
     "timeWeek": 191,
@@ -491,9 +491,9 @@
     "url": "https://science.mcmaster.ca/medialab/joomla3/bwelements/",
     "icon": "https://icons.duckduckgo.com/ip3/science.mcmaster.ca.ico",
     "slug": "bw-elements",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -503,6 +503,7 @@
     "timeMonth": 238,
     "timeYear": 189,
     "dailyMinutesDown": {
+      "2022-12-06": 0,
       "2022-10-07": 468,
       "2022-06-08": 32
     }
