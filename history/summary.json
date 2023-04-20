@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-20": 37,
+      "2023-04-20": 442,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
@@ -468,9 +468,9 @@
     "url": "https://b2p.mcmaster.ca/api/surveys",
     "icon": "https://icons.duckduckgo.com/ip3/b2p.mcmaster.ca.ico",
     "slug": "back2-play",
-    "status": "up",
+    "status": "down",
     "uptime": "97.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "97.25%",
@@ -480,6 +480,7 @@
     "timeMonth": 287,
     "timeYear": 301,
     "dailyMinutesDown": {
+      "2023-04-20": 0,
       "2023-03-27": 26,
       "2023-02-08": 529,
       "2023-02-06": 989,
