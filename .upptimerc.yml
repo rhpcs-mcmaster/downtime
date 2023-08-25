@@ -19,8 +19,6 @@ sites:
     url: http://rhpcs.mcmaster.ca
   - name: web.mcmaster.ca
     url: http://web.mcmaster.ca/.well-known
-  - name: BW Elements
-    url: https://science.mcmaster.ca/medialab/joomla3/bwelements/
   - name: WebMail
     url: https://web.mcmaster.ca/mail/roundcube/1.4/
   - name: McMaster Research and Innovation
