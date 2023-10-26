@@ -1,7 +1,7 @@
 url: https://web.mcmaster.ca/mail/roundcube/1.4/
-status: up
-code: 200
-responseTime: 114
-lastUpdated: 2023-10-25T23:13:28.869Z
+status: down
+code: 403
+responseTime: 107
+lastUpdated: 2023-10-26T02:05:00.685Z
 startTime: 2022-02-26T15:13:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
