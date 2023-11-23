@@ -1,7 +1,7 @@
 url: http://ms.math.mcmaster.ca/uptimerobot
-status: up
-code: 200
-responseTime: 71
-lastUpdated: 2023-11-22T23:13:04.528Z
+status: down
+code: 404
+responseTime: 60
+lastUpdated: 2023-11-23T22:43:39.201Z
 startTime: 2022-02-24T21:04:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
