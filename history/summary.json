@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-25": 401,
+      "2024-01-25": 422,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
@@ -508,11 +508,11 @@
     "url": "http://ms.math.mcmaster.ca/uptimerobot",
     "icon": "https://icons.duckduckgo.com/ip3/ms.math.mcmaster.ca.ico",
     "slug": "ms-math-mcmaster-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "71.31%",
-    "uptimeWeek": "95.90%",
-    "uptimeMonth": "99.06%",
+    "uptimeDay": "71.19%",
+    "uptimeWeek": "95.88%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.41%",
     "time": 156,
     "timeDay": 165,
@@ -520,7 +520,7 @@
     "timeMonth": 121,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-01-25": 401,
+      "2024-01-25": 403,
       "2024-01-24": 12,
       "2023-11-24": 922,
       "2023-11-23": 76,
@@ -637,11 +637,11 @@
     "url": "$HIDDEN_SITE1_SSH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-hidden-tcp-ping-for-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 65,
     "timeDay": 42,
@@ -649,7 +649,7 @@
     "timeMonth": 35,
     "timeYear": 64,
     "dailyMinutesDown": {
-      "2024-01-25": 9
+      "2024-01-25": 0
     }
   }
 ]
