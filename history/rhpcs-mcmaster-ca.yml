@@ -1,7 +1,7 @@
 url: http://rhpcs.mcmaster.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-26T03:07:16.841Z
+status: up
+code: 200
+responseTime: 1966
+lastUpdated: 2024-01-26T05:08:31.266Z
 startTime: 2022-02-24T21:04:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
