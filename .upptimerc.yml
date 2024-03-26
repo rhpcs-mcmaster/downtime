@@ -9,8 +9,6 @@ sites:
     url: https://emuseum.mcmaster.ca/
   - name: MMOS
     url: https://museum.mcmaster.ca
-  - name: arieal.mcmaster.ca
-    url: https://arieal.mcmaster.ca
   - name: Back2Play
     url: https://b2p.mcmaster.ca/api/surveys
   - name: ms.math.mcmaster.ca
