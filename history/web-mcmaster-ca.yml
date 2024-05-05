@@ -1,7 +1,7 @@
 url: http://web.mcmaster.ca/.well-known
-status: up
-code: 200
-responseTime: 88
-lastUpdated: 2024-05-04T23:12:57.774Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-05-05T22:25:07.209Z
 startTime: 2022-02-24T21:04:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
