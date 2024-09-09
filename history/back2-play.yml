@@ -1,7 +1,7 @@
 url: https://b2p.mcmaster.ca/api/surveys
-status: up
-code: 200
-responseTime: 142
-lastUpdated: 2024-09-08T23:17:13.659Z
+status: down
+code: 502
+responseTime: 3301
+lastUpdated: 2024-09-09T05:46:36.090Z
 startTime: 2022-02-24T21:04:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
