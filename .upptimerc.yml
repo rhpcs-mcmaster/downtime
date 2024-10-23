@@ -13,8 +13,6 @@ sites:
     url: https://b2p.mcmaster.ca/api/surveys
   - name: ms.math.mcmaster.ca
     url: http://ms.math.mcmaster.ca/uptimerobot
-  - name: rhpcs.mcmaster.ca
-    url: http://rhpcs.mcmaster.ca
   - name: web.mcmaster.ca
     url: http://web.mcmaster.ca/.well-known
   - name: WebMail
