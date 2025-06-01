@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-31": 56,
+      "2025-06-01": 69,
+      "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
@@ -379,8 +380,7 @@
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
-      "2024-06-02": 1440,
-      "2024-06-01": 1440
+      "2024-06-02": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/emuseum.mcmaster.ca.ico",
     "slug": "e-museum",
     "status": "up",
-    "uptime": "98.69%",
+    "uptime": "98.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.27%",
     "uptimeYear": "96.90%",
     "time": 709,
-    "timeDay": 300,
-    "timeWeek": 430,
-    "timeMonth": 426,
-    "timeYear": 555,
+    "timeDay": 304,
+    "timeWeek": 383,
+    "timeMonth": 421,
+    "timeYear": 554,
     "dailyMinutesDown": {
       "2025-05-20": 893,
       "2025-05-19": 1363,
@@ -443,8 +443,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 1059,
-    "timeDay": 447,
-    "timeWeek": 525,
+    "timeDay": 477,
+    "timeWeek": 501,
     "timeMonth": 520,
     "timeYear": 1199,
     "dailyMinutesDown": {
@@ -472,8 +472,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 135,
-    "timeDay": 82,
-    "timeWeek": 126,
+    "timeDay": 97,
+    "timeWeek": 109,
     "timeMonth": 118,
     "timeYear": 137,
     "dailyMinutesDown": {
@@ -494,10 +494,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 121,
-    "timeDay": 124,
-    "timeWeek": 114,
-    "timeMonth": 111,
-    "timeYear": 121,
+    "timeDay": 115,
+    "timeWeek": 104,
+    "timeMonth": 112,
+    "timeYear": 120,
     "dailyMinutesDown": {
       "2024-09-25": 389,
       "2024-09-24": 485
@@ -515,9 +515,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 182,
-    "timeDay": 137,
-    "timeWeek": 143,
-    "timeMonth": 130,
+    "timeDay": 111,
+    "timeWeek": 129,
+    "timeMonth": 131,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2024-10-16": 110,
@@ -540,7 +540,7 @@
     "uptimeYear": "99.60%",
     "time": 33,
     "timeDay": 21,
-    "timeWeek": 31,
+    "timeWeek": 26,
     "timeMonth": 28,
     "timeYear": 32,
     "dailyMinutesDown": {
