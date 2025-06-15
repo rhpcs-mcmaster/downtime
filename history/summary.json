@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-15": 1411,
+      "2025-06-15": 1423,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -490,19 +490,19 @@
     "url": "https://facsocsci.mcmaster.ca",
     "icon": "https://icons.duckduckgo.com/ip3/facsocsci.mcmaster.ca.ico",
     "slug": "soc-sci-plone",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 538,
-    "timeDay": 413,
-    "timeWeek": 538,
-    "timeMonth": 538,
-    "timeYear": 538,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 550,
+    "timeDay": 494,
+    "timeWeek": 550,
+    "timeMonth": 550,
+    "timeYear": 550,
     "dailyMinutesDown": {
-      "2025-06-15": 0
+      "2025-06-15": 12
     }
   },
   {
