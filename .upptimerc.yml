@@ -11,8 +11,6 @@ sites:
     url: https://museum.mcmaster.ca
   - name: ms.math.mcmaster.ca
     url: http://ms.math.mcmaster.ca/uptimerobot
-  - name: SocSci Plone
-    url: https://facsocsci.mcmaster.ca
   - name: web.mcmaster.ca
     url: http://web.mcmaster.ca/.well-known
   - name: WebMail
