@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-26": 59,
+      "2025-06-26": 1315,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -512,9 +512,9 @@
     "url": "https://web.mcmaster.ca/mail/roundcube/1.4/",
     "icon": "https://icons.duckduckgo.com/ip3/web.mcmaster.ca.ico",
     "slug": "web-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
@@ -524,6 +524,7 @@
     "timeMonth": 158,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2025-06-26": 0,
       "2024-10-16": 110,
       "2024-10-06": 127,
       "2024-10-05": 92,
