@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-13": 108,
+      "2025-09-14": 56,
+      "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -379,8 +380,7 @@
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
-      "2024-09-15": 1440,
-      "2024-09-14": 1440
+      "2024-09-15": 1440
     }
   },
   {
@@ -390,14 +390,14 @@
     "slug": "e-museum",
     "status": "up",
     "uptime": "98.23%",
-    "uptimeDay": "90.54%",
+    "uptimeDay": "96.42%",
     "uptimeWeek": "98.65%",
-    "uptimeMonth": "96.09%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "95.58%",
     "time": 545,
-    "timeDay": 2756,
-    "timeWeek": 1205,
-    "timeMonth": 740,
+    "timeDay": 539,
+    "timeWeek": 1196,
+    "timeMonth": 727,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2025-09-13": 108,
@@ -457,7 +457,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
     "time": 1493,
-    "timeDay": 741,
+    "timeDay": 463,
     "timeWeek": 522,
     "timeMonth": 528,
     "timeYear": 1783,
@@ -490,10 +490,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 138,
-    "timeDay": 192,
-    "timeWeek": 123,
+    "timeDay": 103,
+    "timeWeek": 125,
     "timeMonth": 131,
-    "timeYear": 142,
+    "timeYear": 141,
     "dailyMinutesDown": {
       "2024-09-25": 953,
       "2024-09-24": 497
@@ -511,8 +511,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 123,
-    "timeDay": 236,
-    "timeWeek": 132,
+    "timeDay": 90,
+    "timeWeek": 133,
     "timeMonth": 128,
     "timeYear": 123,
     "dailyMinutesDown": {
@@ -532,8 +532,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 612,
-    "timeDay": 290,
-    "timeWeek": 130,
+    "timeDay": 97,
+    "timeWeek": 129,
     "timeMonth": 139,
     "timeYear": 816,
     "dailyMinutesDown": {
@@ -560,7 +560,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 33,
-    "timeDay": 76,
+    "timeDay": 20,
     "timeWeek": 28,
     "timeMonth": 32,
     "timeYear": 33,
