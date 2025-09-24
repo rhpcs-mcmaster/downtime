@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-23": 52,
+      "2025-09-24": 53,
+      "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -379,8 +380,7 @@
       "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
-      "2024-09-25": 1440,
-      "2024-09-24": 1440
+      "2024-09-25": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/emuseum.mcmaster.ca.ico",
     "slug": "e-museum",
     "status": "up",
-    "uptime": "98.24%",
+    "uptime": "98.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "95.58%",
-    "time": 545,
-    "timeDay": 665,
-    "timeWeek": 504,
-    "timeMonth": 723,
-    "timeYear": 546,
+    "time": 546,
+    "timeDay": 785,
+    "timeWeek": 555,
+    "timeMonth": 738,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2025-09-13": 108,
       "2025-09-12": 28,
@@ -441,8 +441,7 @@
       "2024-10-16": 456,
       "2024-09-29": 50,
       "2024-09-28": 30,
-      "2024-09-25": 833,
-      "2024-09-24": 487
+      "2024-09-25": 833
     }
   },
   {
@@ -451,16 +450,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/museum.mcmaster.ca.ico",
     "slug": "mmos",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 1493,
-    "timeDay": 672,
-    "timeWeek": 582,
-    "timeMonth": 523,
-    "timeYear": 1786,
+    "timeDay": 687,
+    "timeWeek": 604,
+    "timeMonth": 530,
+    "timeYear": 1789,
     "dailyMinutesDown": {
       "2025-07-26": 57,
       "2025-07-18": 75,
@@ -473,8 +472,7 @@
       "2024-10-07": 332,
       "2024-10-06": 592,
       "2024-10-05": 112,
-      "2024-09-25": 851,
-      "2024-09-24": 487
+      "2024-09-25": 851
     }
   },
   {
@@ -489,13 +487,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 138,
-    "timeDay": 216,
-    "timeWeek": 175,
-    "timeMonth": 131,
+    "timeDay": 169,
+    "timeWeek": 177,
+    "timeMonth": 134,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2024-09-25": 953,
-      "2024-09-24": 497
+      "2024-09-25": 953
     }
   },
   {
@@ -510,13 +507,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 123,
-    "timeDay": 194,
-    "timeWeek": 168,
-    "timeMonth": 130,
+    "timeDay": 184,
+    "timeWeek": 178,
+    "timeMonth": 133,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2024-09-25": 389,
-      "2024-09-24": 485
+      "2024-09-25": 389
     }
   },
   {
@@ -531,9 +527,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 613,
-    "timeDay": 227,
-    "timeWeek": 186,
-    "timeMonth": 139,
+    "timeDay": 241,
+    "timeWeek": 202,
+    "timeMonth": 144,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2025-07-18": 73,
@@ -543,8 +539,7 @@
       "2024-10-16": 110,
       "2024-10-06": 127,
       "2024-10-05": 92,
-      "2024-09-25": 852,
-      "2024-09-24": 485
+      "2024-09-25": 852
     }
   },
   {
@@ -559,13 +554,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 33,
-    "timeDay": 63,
-    "timeWeek": 43,
-    "timeMonth": 31,
+    "timeDay": 61,
+    "timeWeek": 48,
+    "timeMonth": 33,
     "timeYear": 33,
     "dailyMinutesDown": {
-      "2024-09-25": 953,
-      "2024-09-24": 497
+      "2024-09-25": 953
     }
   }
 ]
