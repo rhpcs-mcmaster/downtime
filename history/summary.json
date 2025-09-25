@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-24": 53,
+      "2025-09-25": 53,
+      "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
@@ -379,8 +380,7 @@
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
-      "2024-09-26": 1440,
-      "2024-09-25": 1440
+      "2024-09-26": 1440
     }
   },
   {
@@ -393,12 +393,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "95.58%",
+    "uptimeYear": "95.69%",
     "time": 546,
-    "timeDay": 785,
-    "timeWeek": 555,
-    "timeMonth": 738,
-    "timeYear": 547,
+    "timeDay": 293,
+    "timeWeek": 504,
+    "timeMonth": 727,
+    "timeYear": 546,
     "dailyMinutesDown": {
       "2025-09-13": 108,
       "2025-09-12": 28,
@@ -440,8 +440,7 @@
       "2024-11-02": 23,
       "2024-10-16": 456,
       "2024-09-29": 50,
-      "2024-09-28": 30,
-      "2024-09-25": 833
+      "2024-09-28": 30
     }
   },
   {
@@ -454,12 +453,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.55%",
     "time": 1493,
-    "timeDay": 687,
-    "timeWeek": 604,
-    "timeMonth": 530,
-    "timeYear": 1789,
+    "timeDay": 482,
+    "timeWeek": 580,
+    "timeMonth": 529,
+    "timeYear": 1786,
     "dailyMinutesDown": {
       "2025-07-26": 57,
       "2025-07-18": 75,
@@ -471,8 +470,7 @@
       "2024-10-15": 0,
       "2024-10-07": 332,
       "2024-10-06": 592,
-      "2024-10-05": 112,
-      "2024-09-25": 851
+      "2024-10-05": 112
     }
   },
   {
@@ -485,15 +483,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.72%",
+    "uptimeYear": "99.83%",
     "time": 138,
-    "timeDay": 169,
-    "timeWeek": 177,
-    "timeMonth": 134,
+    "timeDay": 91,
+    "timeWeek": 161,
+    "timeMonth": 133,
     "timeYear": 143,
-    "dailyMinutesDown": {
-      "2024-09-25": 953
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "web.mcmaster.ca",
@@ -501,19 +497,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.mcmaster.ca.ico",
     "slug": "web-mcmaster-ca",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.94%",
     "time": 123,
-    "timeDay": 184,
-    "timeWeek": 178,
-    "timeMonth": 133,
+    "timeDay": 86,
+    "timeWeek": 164,
+    "timeMonth": 131,
     "timeYear": 125,
-    "dailyMinutesDown": {
-      "2024-09-25": 389
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WebMail",
@@ -525,12 +519,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
+    "uptimeYear": "99.75%",
     "time": 613,
-    "timeDay": 241,
-    "timeWeek": 202,
-    "timeMonth": 144,
-    "timeYear": 817,
+    "timeDay": 95,
+    "timeWeek": 185,
+    "timeMonth": 143,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2025-07-18": 73,
       "2025-06-29": 74,
@@ -538,8 +532,7 @@
       "2025-06-26": 19,
       "2024-10-16": 110,
       "2024-10-06": 127,
-      "2024-10-05": 92,
-      "2024-09-25": 852
+      "2024-10-05": 92
     }
   },
   {
@@ -552,14 +545,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.72%",
+    "uptimeYear": "99.83%",
     "time": 33,
-    "timeDay": 61,
-    "timeWeek": 48,
+    "timeDay": 21,
+    "timeWeek": 42,
     "timeMonth": 33,
     "timeYear": 33,
-    "dailyMinutesDown": {
-      "2024-09-25": 953
-    }
+    "dailyMinutesDown": {}
   }
 ]
