@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-05": 58,
+      "2025-10-06": 54,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -379,8 +380,7 @@
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
-      "2024-10-07": 1440,
-      "2024-10-06": 1440
+      "2024-10-07": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "95.85%",
     "time": 540,
-    "timeDay": 339,
-    "timeWeek": 306,
-    "timeMonth": 599,
+    "timeDay": 320,
+    "timeWeek": 307,
+    "timeMonth": 600,
     "timeYear": 499,
     "dailyMinutesDown": {
       "2025-09-13": 108,
@@ -451,12 +451,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.72%",
     "time": 1492,
-    "timeDay": 481,
-    "timeWeek": 471,
+    "timeDay": 482,
+    "timeWeek": 467,
     "timeMonth": 518,
-    "timeYear": 1782,
+    "timeYear": 1664,
     "dailyMinutesDown": {
       "2025-07-26": 57,
       "2025-07-18": 75,
@@ -466,8 +466,7 @@
       "2025-04-19": 24,
       "2024-10-16": 111,
       "2024-10-15": 0,
-      "2024-10-07": 332,
-      "2024-10-06": 592
+      "2024-10-07": 332
     }
   },
   {
@@ -476,13 +475,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/ms.math.mcmaster.ca.ico",
     "slug": "ms-math-mcmaster-ca",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 125,
+    "time": 137,
+    "timeDay": 101,
     "timeWeek": 102,
     "timeMonth": 125,
     "timeYear": 142,
@@ -500,8 +499,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 90,
-    "timeWeek": 90,
+    "timeDay": 111,
+    "timeWeek": 93,
     "timeMonth": 122,
     "timeYear": 125,
     "dailyMinutesDown": {}
@@ -516,19 +515,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.92%",
     "time": 612,
-    "timeDay": 96,
+    "timeDay": 102,
     "timeWeek": 92,
     "timeMonth": 132,
-    "timeYear": 817,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2025-07-18": 73,
       "2025-06-29": 74,
       "2025-06-27": 30,
       "2025-06-26": 19,
-      "2024-10-16": 110,
-      "2024-10-06": 127
+      "2024-10-16": 110
     }
   },
   {
