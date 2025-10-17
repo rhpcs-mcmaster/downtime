@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 54,
+      "2025-10-17": 894,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -388,9 +388,9 @@
     "url": "https://emuseum.mcmaster.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/emuseum.mcmaster.ca.ico",
     "slug": "e-museum",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.94%",
@@ -400,6 +400,7 @@
     "timeMonth": 527,
     "timeYear": 507,
     "dailyMinutesDown": {
+      "2025-10-17": 0,
       "2025-09-13": 108,
       "2025-09-12": 28,
       "2025-08-14": 243,
