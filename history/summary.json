@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-19": 149,
+      "2026-05-20": 148,
+      "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -379,8 +380,7 @@
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440
+      "2025-05-21": 1440
     }
   },
   {
@@ -393,11 +393,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.80%",
-    "time": 502,
-    "timeDay": 360,
-    "timeWeek": 485,
-    "timeMonth": 443,
+    "uptimeYear": "95.07%",
+    "time": 503,
+    "timeDay": 531,
+    "timeWeek": 452,
+    "timeMonth": 451,
     "timeYear": 495,
     "dailyMinutesDown": {
       "2026-04-09": 169,
@@ -437,8 +437,7 @@
       "2025-06-17": 21,
       "2025-06-12": 16,
       "2025-06-02": 216,
-      "2025-06-01": 369,
-      "2025-05-20": 893
+      "2025-06-01": 369
     }
   },
   {
@@ -453,9 +452,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 1102,
-    "timeDay": 417,
-    "timeWeek": 517,
-    "timeMonth": 555,
+    "timeDay": 537,
+    "timeWeek": 497,
+    "timeMonth": 558,
     "timeYear": 1226,
     "dailyMinutesDown": {
       "2026-03-27": 241,
@@ -481,9 +480,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 150,
-    "timeDay": 110,
-    "timeWeek": 126,
-    "timeMonth": 147,
+    "timeDay": 198,
+    "timeWeek": 128,
+    "timeMonth": 150,
     "timeYear": 145,
     "dailyMinutesDown": {
       "2026-03-27": 185,
@@ -504,9 +503,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 142,
-    "timeDay": 83,
-    "timeWeek": 108,
-    "timeMonth": 138,
+    "timeDay": 182,
+    "timeWeek": 109,
+    "timeMonth": 141,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2026-03-27": 175,
@@ -520,15 +519,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.mcmaster.ca.ico",
     "slug": "web-mail",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 665,
-    "timeDay": 68,
-    "timeWeek": 111,
-    "timeMonth": 138,
+    "timeDay": 148,
+    "timeWeek": 102,
+    "timeMonth": 140,
     "timeYear": 807,
     "dailyMinutesDown": {
       "2026-03-27": 176,
@@ -553,9 +552,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 35,
-    "timeDay": 20,
-    "timeWeek": 30,
-    "timeMonth": 34,
+    "timeDay": 29,
+    "timeWeek": 25,
+    "timeMonth": 35,
     "timeYear": 35,
     "dailyMinutesDown": {
       "2026-03-27": 59,
