@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 1075,
+      "2026-08-08": 1076,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -388,17 +388,17 @@
     "url": "https://emuseum.mcmaster.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/emuseum.mcmaster.ca.ico",
     "slug": "e-museum",
-    "status": "down",
+    "status": "up",
     "uptime": "97.97%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "96.94%",
-    "uptimeMonth": "98.99%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "96.48%",
     "time": 674,
-    "timeDay": 666,
-    "timeWeek": 5070,
-    "timeMonth": 2826,
-    "timeYear": 738,
+    "timeDay": 597,
+    "timeWeek": 4616,
+    "timeMonth": 2762,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2025-08-14": 243,
       "2025-08-13": 1440,
@@ -427,7 +427,7 @@
       "2026-04-09": 169,
       "2026-07-08": 136,
       "2026-08-05": 273,
-      "2026-08-08": 36
+      "2026-08-08": 37
     }
   },
   {
@@ -435,23 +435,23 @@
     "url": "https://museum.mcmaster.ca",
     "icon": "https://icons.duckduckgo.com/ip3/museum.mcmaster.ca.ico",
     "slug": "mmos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "97.99%",
+    "uptimeDay": "97.94%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.59%",
     "time": 1086,
-    "timeDay": 578,
-    "timeWeek": 580,
-    "timeMonth": 544,
+    "timeDay": 601,
+    "timeWeek": 586,
+    "timeMonth": 546,
     "timeYear": 560,
     "dailyMinutesDown": {
       "2025-10-18": 1418,
       "2025-10-17": 12,
       "2025-11-07": 476,
       "2026-03-27": 241,
-      "2026-08-08": 29
+      "2026-08-08": 30
     }
   },
   {
@@ -459,23 +459,23 @@
     "url": "http://ms.math.mcmaster.ca/uptimerobot",
     "icon": "https://icons.duckduckgo.com/ip3/ms.math.mcmaster.ca.ico",
     "slug": "ms-math-mcmaster-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.62%",
     "time": 144,
-    "timeDay": 164,
+    "timeDay": 156,
     "timeWeek": 150,
-    "timeMonth": 136,
+    "timeMonth": 137,
     "timeYear": 145,
     "dailyMinutesDown": {
       "2025-10-18": 1328,
       "2025-10-17": 44,
       "2025-11-07": 433,
       "2026-03-27": 185,
-      "2026-08-08": 22
+      "2026-08-08": 23
     }
   },
   {
@@ -483,22 +483,22 @@
     "url": "http://web.mcmaster.ca/.well-known",
     "icon": "https://icons.duckduckgo.com/ip3/web.mcmaster.ca.ico",
     "slug": "web-mcmaster-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.69%",
     "time": 143,
-    "timeDay": 206,
-    "timeWeek": 151,
+    "timeDay": 175,
+    "timeWeek": 150,
     "timeMonth": 131,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2025-10-18": 1420,
       "2025-10-17": 11,
       "2026-03-27": 175,
-      "2026-08-08": 15
+      "2026-08-08": 16
     }
   },
   {
@@ -506,15 +506,15 @@
     "url": "https://web.mcmaster.ca/mail/roundcube/1.4/",
     "icon": "https://icons.duckduckgo.com/ip3/web.mcmaster.ca.ico",
     "slug": "web-mail",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.60%",
     "time": 662,
-    "timeDay": 171,
-    "timeWeek": 147,
+    "timeDay": 149,
+    "timeWeek": 145,
     "timeMonth": 122,
     "timeYear": 144,
     "dailyMinutesDown": {
@@ -522,7 +522,7 @@
       "2025-10-17": 10,
       "2025-11-07": 474,
       "2026-03-27": 176,
-      "2026-08-08": 8
+      "2026-08-08": 9
     }
   },
   {
@@ -530,22 +530,22 @@
     "url": "$HIDDEN_SITE1_SSH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-hidden-tcp-ping-for-ssh",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.73%",
     "time": 35,
-    "timeDay": 38,
-    "timeWeek": 42,
-    "timeMonth": 35,
+    "timeDay": 32,
+    "timeWeek": 40,
+    "timeMonth": 34,
     "timeYear": 36,
     "dailyMinutesDown": {
       "2025-10-18": 1331,
       "2025-10-17": 43,
       "2026-03-27": 59,
-      "2026-08-08": 2
+      "2026-08-08": 3
     }
   }
 ]
