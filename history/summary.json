@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-17": 489,
+      "2026-09-17": 800,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
@@ -388,17 +388,17 @@
     "url": "https://emuseum.mcmaster.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/emuseum.mcmaster.ca.ico",
     "slug": "e-museum",
-    "status": "down",
-    "uptime": "98.02%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.29%",
-    "uptimeYear": "97.01%",
+    "status": "up",
+    "uptime": "98.00%",
+    "uptimeDay": "78.34%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "97.58%",
+    "uptimeYear": "96.95%",
     "time": 773,
-    "timeDay": 375,
-    "timeWeek": 530,
-    "timeMonth": 1821,
-    "timeYear": 840,
+    "timeDay": 381,
+    "timeWeek": 512,
+    "timeMonth": 1779,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2025-10-19": 108,
       "2025-10-18": 1440,
@@ -423,7 +423,7 @@
       "2026-08-05": 273,
       "2026-08-08": 37,
       "2026-08-28": 748,
-      "2026-09-17": 0
+      "2026-09-17": 312
     }
   },
   {
