@@ -1,7 +1,7 @@
 url: https://emuseum.mcmaster.ca/
-status: down
-code: 503
-responseTime: 373
-lastUpdated: 2026-10-08T21:43:54.871Z
+status: up
+code: 200
+responseTime: 489
+lastUpdated: 2026-10-09T01:26:56.733Z
 startTime: 2022-02-24T20:51:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
