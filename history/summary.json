@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-22": 152,
+      "2026-10-22": 479,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -430,21 +430,22 @@
     "url": "https://museum.mcmaster.ca",
     "icon": "https://icons.duckduckgo.com/ip3/museum.mcmaster.ca.ico",
     "slug": "mmos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 771,
-    "timeDay": 831,
-    "timeWeek": 658,
-    "timeMonth": 629,
-    "timeYear": 579,
+    "time": 727,
+    "timeDay": 459,
+    "timeWeek": 587,
+    "timeMonth": 612,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2025-11-07": 476,
       "2026-03-27": 241,
-      "2026-08-08": 30
+      "2026-08-08": 30,
+      "2026-10-22": 0
     }
   },
   {
