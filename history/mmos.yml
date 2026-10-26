@@ -1,7 +1,7 @@
 url: https://museum.mcmaster.ca
-status: down
-code: 503
-responseTime: 147
-lastUpdated: 2026-10-26T00:59:42.795Z
+status: up
+code: 200
+responseTime: 504
+lastUpdated: 2026-10-26T06:55:03.150Z
 startTime: 2022-02-24T20:51:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
